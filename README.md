@@ -7,7 +7,8 @@ Bot para aprender a usar, meu primeiro bot discord e provavelmente o mais bagun�
 ## Por que postei github então se serve para nada?
 - Mostra evolução.
 - Deixa arquivado caso eu perca arquivos.
-- Me ensina a usar github, muda versão do mesmo projeto.
+- Me ensina a usar github 
+- Aprende a mudar versão do mesmo projeto e melhorar.
 
 ## 13/06/2026
 - Ele ainda roda só no meu pc quando executo código
